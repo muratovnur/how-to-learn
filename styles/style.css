@@ -128,7 +128,7 @@
 .two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 /*============SECTION DIGITS============*/
@@ -146,7 +146,7 @@
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .section-subtitle {
@@ -177,7 +177,7 @@
   padding: 0;
   line-height: 1.15;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .table__text {
@@ -212,7 +212,7 @@
   text-align: center;
   line-height: 1.15;
   font-size: 120px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .feynman__subtitle {
@@ -311,6 +311,10 @@
   width: 90%;
 }
 
+/* .footer__column {
+
+} */
+
 .footer__column_content_copyright {
   display: flex;
   flex-direction: column;
@@ -342,7 +346,7 @@
   padding: 0;
   line-height: 30px;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 700;
   margin-bottom: 20px;
 }
 
